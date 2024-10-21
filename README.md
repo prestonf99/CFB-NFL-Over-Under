@@ -30,3 +30,8 @@ This project was designed to analyze Over/Under lines in sportsbooks with the go
     
      `remotes::install_github("nflverse/cfbfastR")`
 
+4) Run through the `ASSEMBLE_NFL.ipynb` and `ASSEMBLE_CFB.ipynb` files to get the data prepared for visualizations. For the CFB data, you'll need to retrieve the data from `CFBFastR.ipynb` before assembling it.
+
+5) Use `R_Photos.ipynb` and `CFB_R.ipynb` to load the visualizations.
+    - In the CFB assembly, you can choose your criteria for what constitutes a bet (for me, it's > 50% confidence), and make visuals just for those games. 
+
