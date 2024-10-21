@@ -7,3 +7,26 @@ This project was designed to analyze Over/Under lines in sportsbooks with the go
 
 ![CFB Oct 19](my_bets_one.png)
 
+## Setup 
+1) Clone the repository
+
+    `git clone https://github.com/prestonf99/CFB-NFL-Over-Under`
+
+2) Install the necessary python packages
+
+    `pip install -r requirements.txt`
+    
+3) Get an R kernel set up in your jupyter. I personally stumbled through it, so refer to documentation/tutorials/chatGPT for the kernel setup. 
+
+    `install.packages(c("tidyverse", "ggrepel", "ggplot2", "dplyr", "gt", "hms"))`
+    
+    `if (!requireNamespace("remotes", quietly = TRUE)) {install.packages("remotes")}`
+    
+    `remotes::install_github("nflverse/nflreadr")`
+    
+    `remotes::install_github("nflverse/nflplotR")`
+    
+    `remotes::install_github("nflverse/cfbplotR")`
+    
+     `remotes::install_github("nflverse/cfbfastR")`
+
