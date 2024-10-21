@@ -1,0 +1,5 @@
+,home_team,away_team,total_line,TPAPG,TPPG,gameday,prediction,pred-actual,prob_correct_pred,time
+3,Purdue,Oregon,60.0,59.4,60.27,2024-10-18,57.5,-2.5,0.667,5:00:00
+21,Duke,Florida State,42.5,42.83,41.17,2024-10-18,40.5,-2.0,0.086,16:00:00
+31,Nevada,Fresno State,50.0,54.64,56.12,2024-10-18,52.0,2.0,0.74,19:30:00
+34,BYU,Oklahoma State,52.5,44.17,63.17,2024-10-18,51.5,-1.0,0.373,19:15:00
